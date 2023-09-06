@@ -4,7 +4,7 @@ function App() {
       <div className="bg-white">
         <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
           <h1 className="text-green-600 mx-auto text-center text-5xl lg:text-3xl">
-            Liens des réseaux d'Efrei3D
+            Efrei3D : nos réseaux
           </h1>
           <Composant />
         </div>
