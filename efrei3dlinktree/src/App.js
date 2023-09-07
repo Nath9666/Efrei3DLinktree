@@ -64,7 +64,7 @@ function Composant() {
               className="h-full w-full object-cover object-center lg:h-full lg:w-full"
             />
           </div>
-          <div className="mt-4 flex justify-between hover:bg-green-100">
+          <div className="mt-4 border-8 flex justify-between rounded border-white hover:bg-green-100 hover:border-green-100">
             <div>
               <h3 className="text-sm text-gray-700">
                 <a href={link.url}>
